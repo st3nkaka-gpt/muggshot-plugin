@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mock_instagram_post_1",
+    "image_url": "https://via.placeholder.com/600x400.png?text=Stockholm+1",
+    "caption": "En fantastisk dag i #stockholm! #muggshot",
+    "timestamp": "2025-07-18T12:00:00Z",
+    "hashtags": [
+      "stockholm",
+      "muggshot"
+    ]
+  },
+  {
+    "id": "mock_instagram_post_2",
+    "image_url": "https://via.placeholder.com/600x400.png?text=Gothenburg+1",
+    "caption": "Solnedg\u00e5ng \u00f6ver #goteborg #muggshotse",
+    "timestamp": "2025-07-19T12:00:00Z",
+    "hashtags": [
+      "goteborg",
+      "muggshotse"
+    ]
+  },
+  {
+    "id": "mock_instagram_post_3",
+    "image_url": "https://via.placeholder.com/600x400.png?text=Gamla+Stan+1",
+    "caption": "F\u00e4rggranna hus i #stockholm #muggshot",
+    "timestamp": "2025-07-20T12:00:00Z",
+    "hashtags": [
+      "stockholm",
+      "muggshot"
+    ]
+  },
+  {
+    "id": "mock_instagram_post_4",
+    "image_url": "https://via.placeholder.com/600x400.png?text=Stockholm+2",
+    "caption": "Promenad l\u00e4ngs vattnet i #stockholm #muggshot",
+    "timestamp": "2025-07-18T12:00:00Z",
+    "hashtags": [
+      "stockholm",
+      "muggshot"
+    ]
+  },
+  {
+    "id": "mock_instagram_post_5",
+    "image_url": "https://via.placeholder.com/600x400.png?text=Gothenburg+2",
+    "caption": "Kv\u00e4llsljus \u00f6ver #goteborg #muggshotse",
+    "timestamp": "2025-07-19T12:00:00Z",
+    "hashtags": [
+      "goteborg",
+      "muggshotse"
+    ]
+  },
+  {
+    "id": "mock_instagram_post_6",
+    "image_url": "https://via.placeholder.com/600x400.png?text=Gamla+Stan+2",
+    "caption": "Trappor i gr\u00e4nderna i #stockholm #muggshot",
+    "timestamp": "2025-07-20T12:00:00Z",
+    "hashtags": [
+      "stockholm",
+      "muggshot"
+    ]
+  }
+]

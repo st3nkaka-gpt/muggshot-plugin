@@ -1,0 +1,22 @@
+[
+  {
+    "id": "insta_mock_0",
+    "image_url": "https://via.placeholder.com/600x400.png?text=Stockholm",
+    "caption": "En fantastisk dag i #stockholm! #muggshot",
+    "timestamp": "2025-07-18T08:00:00Z",
+    "hashtags": [
+      "stockholm",
+      "muggshot"
+    ]
+  },
+  {
+    "id": "insta_mock_1",
+    "image_url": "https://via.placeholder.com/600x400.png?text=Gothenburg",
+    "caption": "Solnedg\u00e5ng \u00f6ver #goteborg #muggshotse",
+    "timestamp": "2025-07-19T09:00:00Z",
+    "hashtags": [
+      "goteborg",
+      "muggshotse"
+    ]
+  }
+]

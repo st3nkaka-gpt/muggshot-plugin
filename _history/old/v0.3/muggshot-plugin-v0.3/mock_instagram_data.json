@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1234567890",
+    "image_url": "https://via.placeholder.com/600x400.png?text=Dummy+1",
+    "caption": "En fantastisk dag i #stockholm! #muggshot",
+    "timestamp": "2025-07-18T10:00:00Z",
+    "hashtags": [
+      "stockholm",
+      "muggshot"
+    ]
+  },
+  {
+    "id": "1234567891",
+    "image_url": "https://via.placeholder.com/600x400.png?text=Dummy+2",
+    "caption": "Solnedg\u00e5ng \u00f6ver #goteborg #muggshotse",
+    "timestamp": "2025-07-19T20:30:00Z",
+    "hashtags": [
+      "goteborg",
+      "muggshotse"
+    ]
+  }
+]
